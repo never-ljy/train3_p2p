@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/firstblood_account/firstblood_account.iml" filepath="$PROJECT_DIR$/firstblood_account/firstblood_account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstblood_borrowmoney/firstblood_borrowmoney.iml" filepath="$PROJECT_DIR$/firstblood_borrowmoney/firstblood_borrowmoney.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstblood_common/firstblood_common.iml" filepath="$PROJECT_DIR$/firstblood_common/firstblood_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstblood_eureka_server/firstblood_eureka_server.iml" filepath="$PROJECT_DIR$/firstblood_eureka_server/firstblood_eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstblood_face/firstblood_face.iml" filepath="$PROJECT_DIR$/firstblood_face/firstblood_face.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstblood_feign/firstblood_feign.iml" filepath="$PROJECT_DIR$/firstblood_feign/firstblood_feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstblood_hsl/firstblood_hsl.iml" filepath="$PROJECT_DIR$/firstblood_hsl/firstblood_hsl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstblood_login/firstblood_login.iml" filepath="$PROJECT_DIR$/firstblood_login/firstblood_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstblood_venture_capital/firstblood_venture_capital.iml" filepath="$PROJECT_DIR$/firstblood_venture_capital/firstblood_venture_capital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstblood_zuul/firstblood_zuul.iml" filepath="$PROJECT_DIR$/firstblood_zuul/firstblood_zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/train3_p2p.iml" filepath="$PROJECT_DIR$/.idea/train3_p2p.iml" />
+    </modules>
+  </component>
+</project>

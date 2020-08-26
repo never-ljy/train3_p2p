@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="firstblood_account" />
+        <module name="firstblood_borrowmoney" />
+        <module name="firstblood_common" />
+        <module name="firstblood_eureka_server" />
+        <module name="firstblood_face" />
+        <module name="firstblood_feign" />
+        <module name="firstblood_hsl" />
+        <module name="firstblood_login" />
+        <module name="firstblood_venture_capital" />
+        <module name="firstblood_zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="firstblood_account" target="1.8" />
+      <module name="firstblood_borrowmoney" target="1.8" />
+      <module name="firstblood_common" target="1.8" />
+      <module name="firstblood_eureka_server" target="1.8" />
+      <module name="firstblood_face" target="1.8" />
+      <module name="firstblood_feign" target="1.8" />
+      <module name="firstblood_hsl" target="1.8" />
+      <module name="firstblood_login" target="1.8" />
+      <module name="firstblood_venture_capital" target="1.8" />
+      <module name="firstblood_zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="firstblood_account" options="-parameters" />
+      <module name="firstblood_common" options="-parameters" />
+      <module name="firstblood_eureka_server" options="-parameters" />
+      <module name="firstblood_face" options="-parameters" />
+      <module name="firstblood_feign" options="-parameters" />
+      <module name="firstblood_hsl" options="-parameters" />
+      <module name="firstblood_venture_capital" options="-parameters" />
+      <module name="firstblood_zuul" options="-parameters" />
+    </option>
+  </component>
+</project>
